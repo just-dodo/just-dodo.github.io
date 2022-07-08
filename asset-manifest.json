@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d3112dc.chunk.css",
+    "main.js": "/static/js/main.521ce17b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.3880d65d.js",
+    "static/css/2.64a22476.chunk.css": "/static/css/2.64a22476.chunk.css",
+    "static/js/2.b7db2ad4.chunk.js": "/static/js/2.b7db2ad4.chunk.js",
+    "static/js/3.506ca88c.chunk.js": "/static/js/3.506ca88c.chunk.js",
+    "static/js/4.af5722e5.chunk.js": "/static/js/4.af5722e5.chunk.js",
+    "static/js/5.8e34d0a1.chunk.js": "/static/js/5.8e34d0a1.chunk.js",
+    "static/js/6.3c115a94.chunk.js": "/static/js/6.3c115a94.chunk.js",
+    "static/js/7.9118a6ef.chunk.js": "/static/js/7.9118a6ef.chunk.js",
+    "static/js/8.645064be.chunk.js": "/static/js/8.645064be.chunk.js",
+    "static/js/9.93eb3492.chunk.js": "/static/js/9.93eb3492.chunk.js",
+    "static/js/10.4d95737b.chunk.js": "/static/js/10.4d95737b.chunk.js",
+    "static/js/11.01eb7e6f.chunk.js": "/static/js/11.01eb7e6f.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.b7db2ad4.chunk.js.LICENSE.txt": "/static/js/2.b7db2ad4.chunk.js.LICENSE.txt",
+    "static/media/TowardsZ_logo_Symbol_01-1_Transparent.png": "/static/media/TowardsZ_logo_Symbol_01-1_Transparent.32358fcb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3880d65d.js",
+    "static/css/2.64a22476.chunk.css",
+    "static/js/2.b7db2ad4.chunk.js",
+    "static/css/main.9d3112dc.chunk.css",
+    "static/js/main.521ce17b.chunk.js"
+  ]
+}
